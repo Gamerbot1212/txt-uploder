@@ -146,7 +146,7 @@ random_image_url = random.choice(image_urls)
 caption = (
         "**ʜᴇʟʟᴏ👋**\n\n"
         "☆ **ɪ ᴀᴍ ᴛxᴛ ᴛᴏ ᴠɪᴅᴇᴏ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.**\n"
-        "☆ **ғᴏʀ ᴜsᴇ ᴍᴇ sᴇɴᴅ /lucifer.\n"
+        "☆ **ғᴏʀ ᴜsᴇ ᴍᴇ sᴇɴᴅ /luciferr.\n"
         "☆ **ғᴏʀ ɢᴜɪᴅᴇ sᴇɴᴅ /help."
 )
     
